@@ -10,3 +10,5 @@
 waaaatch
 
 goodbyes
+
+fine jones if you WANT me to LEARN how to make a PULL REQUEST the I GUESS heres some TEXT for you to FIX and DELETE
