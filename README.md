@@ -1,12 +1,9 @@
-yo
-im johannes
-i have another name, but i dont use it on the interent (haha u cant dox me loser)
+### Yo I'm Johannes
+I have another name, but i dont use it on the interent (haha u cant dox me loser)
 
+I live in the straya 
 
-i live in the straya 
-
-im on github cuz friends are here
-
+I'm on github cuz friends are here
 
 skills:
 ... [watch this space!] 
