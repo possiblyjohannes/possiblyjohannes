@@ -1,4 +1,4 @@
-# yo.
+# yO.
 
 ### im johannes, my real name is not johannes but i use johannes here
 (haha u cant dox me)
