@@ -1,4 +1,4 @@
-# Yo.
+# Yo
 
 ### I'm Johannes, my real name is not Johannes but I use Johannes here
 (haha u cant dox me)
@@ -9,4 +9,12 @@
 ### skills: [watch this space]
 waaaatch
 
-goodbyeees
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/possiblyjohannes/possiblyjohannes/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/possiblyjohannes/possiblyjohannes/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/possiblyjohannes/possiblyjohannes/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
